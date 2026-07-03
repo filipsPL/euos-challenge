@@ -8,6 +8,7 @@
 **Fig.** Distribution of AUROC values (box plots) and individual performance of groups (swarm plot) across the challenge subtasks. The performance of models presented in this work is marked with red diamonds.
 
 See:
+
 - 2nd EUOS/SLAS joint challenge: Prediction of spectral properties of compounds [https://doi.org/10.1016/j.slast.2025.100374](https://doi.org/10.1016/j.slast.2025.100374)
 - [OCHEM](https://ochem.eu/static/challenge2025.do)
 
@@ -33,4 +34,3 @@ See:
 │   └── structural_alerts_combined.csv  # detailed results from PAINS/REOS/BRENK classifier
 
 ```
-
