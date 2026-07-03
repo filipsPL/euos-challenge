@@ -24,5 +24,13 @@ See:
 │   ├── base_models                     # - baseline models
 │   ├── feature_importance              # - feature importances from xgboost and catboost
 │   └── meta-learning                   # - meta lerning performance
+
+
+├── 3-AD
+│   └── descriptors+murcko.csv.gz       # data used for AD analysis
+
+├── 4-PAINS
+│   └── structural_alerts_combined.csv  # detailed results from PAINS/REOS/BRENK classifier
+
 ```
 
