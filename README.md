@@ -15,6 +15,8 @@ See:
 ## Data
 
 ```
+├── 0-code/                             # Code used for modeling, separate README.md inside
+
 ├── 1-descriptors
 │   ├── chromophores.smi                # chromophores used
 │   ├── dyesMurckoScaffolds.csv         # Murcko scaffolds of dyes and fluorophores
