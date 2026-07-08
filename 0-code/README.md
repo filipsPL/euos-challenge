@@ -46,3 +46,4 @@ transmittance 340 nm, transmittance >450 nm). Datasets are expected under `4-dat
 
 - **`analyses/ablation_study.py`** -- script used for ablation study
 - **`analyses/base_models.py`** -- script for deriving base models
+- **`pains/benchmark_structural_alerts.py`** -- script for comparison with PAINS, REOS et al.
