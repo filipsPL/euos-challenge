@@ -1,7 +1,7 @@
-# Data accompanying EUOS Challenge manuscript *Domain-aware feature engineering and automated hyperparameter optimization for prediction of molecular optical interference in high-throughput screening*
+# Data accompanying EUOS Challenge manuscript *Domain-aware feature engineering for prediction of molecular optical interference in high-throughput screening*
 
 - Group name: filipsPL
-- ranked 2nd in the transmittance challenge and 3rd in the fluorescence challenge 💪
+- ranked 2nd in the transmittance challenge and 3rd in the fluorescence challenge
 
 ![performance summary](euos25_rankings.png)
 
