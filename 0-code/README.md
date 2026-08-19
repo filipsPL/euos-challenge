@@ -6,11 +6,15 @@ transmittance 340 nm, transmittance >450 nm). Datasets are expected under `4-dat
 
 ## Descriptors
 
-### KNIME pipeline
+### KNIME-based pipelines
 
-![knime pipeline](obrazki/obrazek-README.png)
+![KNIME pipeline](obrazki/obrazek-README.png)
 
-- **`KNIME/EUOS-pipelines.knwf`** -- scripts to calculate descriptors in KNIME: 3D descriptors, QSPR models for QM parameters
+- **`KNIME/EUOS-pipelines.knwf`** -- scripts to calculate descriptors in KNIME: 3D descriptors, QSPR models for QM parameters, dye and chromophore fingerprints
+
+### python-based pipelines
+
+- **`xtb/calc_xtb_descriptors2.py`** - script to calculate GFN2-xTB descriptors. `xtb` and GNU `parallell` executables should be available in the target system.
 
 ## Main pipeline (run in order)
 
