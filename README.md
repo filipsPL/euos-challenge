@@ -26,8 +26,9 @@ See:
 │   └── dyes.smi                        # dyes used to derive dyesMurckoScaffolds.csv 
 
 ├── 2-results                           # Results of experiments
-│   ├── ablation                        # - ablation study
+│   ├── ablation                        # - ablation study, bootstrap AUROC
 │   ├── base_models                     # - baseline models
+│   ├── bootstrap			# - bootstrap resampling AUROC results
 │   ├── feature_importance              # - feature importances from xgboost and catboost
 │   └── meta-learning                   # - meta lerning performance
 
