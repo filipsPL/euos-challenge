@@ -1,6 +1,12 @@
 Data accompanying EUOS Challenge manuscript *Domain-aware feature engineering for prediction of molecular optical interference in high-throughput screening*
 ==========
 
+> [!NOTE]
+> **How to cite:**:
+>
+> Filip Stefaniak; Domain-Aware Feature Engineering for Prediction of Molecular Optical Interference in High-Throughput Screening. J. Chem. Inf. Model. 2026; [https://doi.org/10.1021/acs.jcim.6c02217](https://doi.org/10.1021/acs.jcim.6c02217)
+
+
 ## The challenge
 
 - Group name: filipsPL
@@ -14,10 +20,6 @@ See:
 
 - 2nd EUOS/SLAS joint challenge: Prediction of spectral properties of compounds [https://doi.org/10.1016/j.slast.2025.100374](https://doi.org/10.1016/j.slast.2025.100374)
 - [OCHEM](https://ochem.eu/static/challenge2025.do)
-
-> [!NOTE]
-> Citing:
-> Filip Stefaniak; Domain-Aware Feature Engineering for Prediction of Molecular Optical Interference in High-Throughput Screening. J. Chem. Inf. Model. 2026; [https://doi.org/10.1021/acs.jcim.6c02217](https://doi.org/10.1021/acs.jcim.6c02217)
 
 
 ## Data
