@@ -15,6 +15,11 @@ See:
 - 2nd EUOS/SLAS joint challenge: Prediction of spectral properties of compounds [https://doi.org/10.1016/j.slast.2025.100374](https://doi.org/10.1016/j.slast.2025.100374)
 - [OCHEM](https://ochem.eu/static/challenge2025.do)
 
+> [!NOTE]
+> Citing:
+> Filip Stefaniak; Domain-Aware Feature Engineering for Prediction of Molecular Optical Interference in High-Throughput Screening. J. Chem. Inf. Model. 2026; [https://doi.org/10.1021/acs.jcim.6c02217](https://doi.org/10.1021/acs.jcim.6c02217)
+
+
 ## Data
 
 ```
@@ -28,9 +33,10 @@ See:
 ├── 2-results                           # Results of experiments
 │   ├── ablation                        # - ablation study, bootstrap AUROC
 │   ├── base_models                     # - baseline models
-│   ├── bootstrap			# - bootstrap resampling AUROC results
+│   ├── bootstrap                       # - bootstrap resampling AUROC results
 │   ├── feature_importance              # - feature importances from xgboost and catboost
 │   └── meta-learning                   # - meta lerning performance
+│   └── time/benchmark_results.csv      # - execution time benchmark results, time per molecule
 
 
 ├── 3-AD
