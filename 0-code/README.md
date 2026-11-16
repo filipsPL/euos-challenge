@@ -4,6 +4,14 @@ Scripts used to train, evaluate, and ensemble AutoML (FLAML) models for the four
 optical-property prediction targets (fluorescence 340/450 nm, fluorescence 480/540+ nm,
 transmittance 340 nm, transmittance >450 nm). Datasets are expected under `4-datasets/` (not included due to its size).
 
+> [!NOTE]
+> **Citing the manuscript:**
+> Stefaniak F.
+> Domain-Aware Feature Engineering for Prediction of Molecular Optical Interference in High-Throughput Screening
+> J. Chem. Inf. Model., 2026 | DOI: 10.1021/acs.jcim.6c02217
+
+
+
 ## Descriptors
 
 ### KNIME-based pipelines
