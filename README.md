@@ -2,10 +2,13 @@ Data accompanying EUOS Challenge manuscript *Domain-aware feature engineering fo
 ==========
 
 > [!NOTE]
-> **How to cite:**:
->
-> Filip Stefaniak; Domain-Aware Feature Engineering for Prediction of Molecular Optical Interference in High-Throughput Screening. J. Chem. Inf. Model. 2026; [https://doi.org/10.1021/acs.jcim.6c02217](https://doi.org/10.1021/acs.jcim.6c02217)
-
+> **Citing the manuscript:**
+> Stefaniak F.
+> Domain-Aware Feature Engineering for Prediction of Molecular Optical Interference in High-Throughput Screening
+> J. Chem. Inf. Model., 2026 | DOI: 10.1021/acs.jcim.6c02217
+>   
+> Citing this repository:
+> https://doi.org/10.5281/zenodo.24283568 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24283568.svg)](https://doi.org/10.5281/zenodo.24283568)
 
 ## The challenge
 
