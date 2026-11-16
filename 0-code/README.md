@@ -9,8 +9,9 @@ transmittance 340 nm, transmittance >450 nm). Datasets are expected under `4-dat
 > Stefaniak F.
 > Domain-Aware Feature Engineering for Prediction of Molecular Optical Interference in High-Throughput Screening
 > J. Chem. Inf. Model., 2026 | DOI: 10.1021/acs.jcim.6c02217
-
-Cite this repository: https://doi.org/10.5281/zenodo.24283568 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24283568.svg)](https://doi.org/10.5281/zenodo.24283568)
+>   
+> Citing this repository:
+> https://doi.org/10.5281/zenodo.24283568 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24283568.svg)](https://doi.org/10.5281/zenodo.24283568)
 
 ## Descriptors
 
