@@ -3,7 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Domain-Aware Feature Engineering for Prediction of Molecular Optical Interference in High-Throughput Screening
+  Domain-Aware Feature Engineering for Prediction of Molecular Optical Interference in High-Throughput Screening (dataset and scripts)
 type: dataset
 authors:
   - orcid: "https://orcid.org/0000-0001-5758-9416"
