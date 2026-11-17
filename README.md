@@ -51,3 +51,6 @@ See:
 │   └── structural_alerts_combined.csv  # detailed results from PAINS/REOS/BRENK classifier
 
 ```
+
+> [!NOTE]
+> This research was funded in part by the National Science Centre, grant number: 2020/39/B/NZ2/03127 to FS.
